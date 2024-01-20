@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hsl(30, 38%, 92%);
+}
+
+.main-content {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.image1 {
+    width: 270px;
+    height: 402px;
+    border-radius: 10px 0px 0px 10px;
+    margin-top: 5px;
+}
+
+.section-2 {
+
+    padding-left: 20px;
+    padding-right: 10px;
+    width: 250px;
+    height: 401px;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(0, 0%, 100%);
+    border: 0.6px white solid;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.h1 {
+    color: hsl(158, 95%, 22%);
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.p2 {
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: rgb(114, 126, 136);
+}
+
+.p1 {
+    letter-spacing: 3.5px;
+    color: rgb(114, 126, 136);
+}
+
+.section-2-d1 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+b {
+    color: aliceblue;
+}
+
+button {
+    background-color: hsl(158, 99%, 27%);
+    padding: 10px;
+    width: 200px;
+    border: 1px green solid;
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    gap: 10px
+}
+
+.attribution {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
