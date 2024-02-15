@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-
+C:\Users\user\Desktop\fylo component\design\desktop-preview.jpg
 
 ## Welcome to GitHub Page !👋
 
